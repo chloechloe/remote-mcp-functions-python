@@ -1,0 +1,108 @@
+{
+  "movies": [
+    {
+      "movie_id": "MOV001",
+      "title": "キングダム 大将軍の帰還",
+      "description": "中華統一を目指す戦いの中で、信と王騎が大軍勢との激突に挑む歴史アクション大作。",
+      "duration_minutes": 146,
+      "genre": "Historical Action",
+      "age_rating": "PG12",
+      "release_start_date": "2024-07-12",
+      "release_end_date": "2025-07-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV002",
+      "title": "ラストマイル",
+      "description": "巨大物流倉庫を舞台に、連続爆破事件の真相を追うノンストップサスペンス。",
+      "duration_minutes": 129,
+      "genre": "Suspense",
+      "age_rating": "PG12",
+      "release_start_date": "2024-08-23",
+      "release_end_date": "2025-07-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV003",
+      "title": "夜明けのすべて",
+      "description": "それぞれ生きづらさを抱えた二人が、静かな連帯を育んでいくヒューマンドラマ。",
+      "duration_minutes": 119,
+      "genre": "Drama",
+      "age_rating": "G",
+      "release_start_date": "2024-02-09",
+      "release_end_date": "2025-07-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV004",
+      "title": "ルックバック",
+      "description": "創作への情熱と喪失を描く、瑞々しいアニメーション映画。",
+      "duration_minutes": 62,
+      "genre": "Animation Drama",
+      "age_rating": "G",
+      "release_start_date": "2024-06-28",
+      "release_end_date": "2025-07-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV005",
+      "title": "劇場版 トリリオンゲーム",
+      "description": "型破りな挑戦を続ける二人が、新たな巨大ビジネスに挑むエンターテインメント作。",
+      "duration_minutes": 118,
+      "genre": "Entertainment",
+      "age_rating": "G",
+      "release_start_date": "2025-02-14",
+      "release_end_date": "2025-08-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV006",
+      "title": "ファーストキス 1ST KISS",
+      "description": "時間を越えてもう一度大切な人に向き合う、切なく温かなラブストーリー。",
+      "duration_minutes": 124,
+      "genre": "Romance Drama",
+      "age_rating": "G",
+      "release_start_date": "2025-02-07",
+      "release_end_date": "2025-08-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV007",
+      "title": "国宝",
+      "description": "芸の道に人生を捧げる者たちの情熱と葛藤を壮大に描く人間ドラマ。",
+      "duration_minutes": 175,
+      "genre": "Period Drama",
+      "age_rating": "PG12",
+      "release_start_date": "2025-06-06",
+      "release_end_date": "2025-09-30",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    },
+    {
+      "movie_id": "MOV008",
+      "title": "かくかくしかじか",
+      "description": "漫画家を目指す主人公と恩師の歳月を、笑いと涙を交えて描く青春ドラマ。",
+      "duration_minutes": 126,
+      "genre": "Comedy Drama",
+      "age_rating": "G",
+      "release_start_date": "2025-05-16",
+      "release_end_date": "2025-08-31",
+      "status": "now_showing",
+      "audio_type": "original",
+      "subtitle_type": "none"
+    }
+  ]
+}

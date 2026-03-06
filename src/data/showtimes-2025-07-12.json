@@ -1,0 +1,245 @@
+{
+  "show_date": "2025-07-12",
+  "showtimes": [
+    {
+      "showtime_id": "SCH025",
+      "movie_id": "MOV001",
+      "screen_id": "SCR01",
+      "show_date": "2025-07-12",
+      "start_time": "09:00",
+      "end_time": "11:26",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH026",
+      "movie_id": "MOV001",
+      "screen_id": "SCR04",
+      "show_date": "2025-07-12",
+      "start_time": "14:10",
+      "end_time": "16:36",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH027",
+      "movie_id": "MOV001",
+      "screen_id": "SCR02",
+      "show_date": "2025-07-12",
+      "start_time": "18:00",
+      "end_time": "20:26",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH028",
+      "movie_id": "MOV002",
+      "screen_id": "SCR02",
+      "show_date": "2025-07-12",
+      "start_time": "09:20",
+      "end_time": "11:29",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH029",
+      "movie_id": "MOV002",
+      "screen_id": "SCR01",
+      "show_date": "2025-07-12",
+      "start_time": "14:00",
+      "end_time": "16:09",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH030",
+      "movie_id": "MOV002",
+      "screen_id": "SCR04",
+      "show_date": "2025-07-12",
+      "start_time": "19:40",
+      "end_time": "21:49",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH031",
+      "movie_id": "MOV003",
+      "screen_id": "SCR03",
+      "show_date": "2025-07-12",
+      "start_time": "09:40",
+      "end_time": "11:39",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH032",
+      "movie_id": "MOV003",
+      "screen_id": "SCR05",
+      "show_date": "2025-07-12",
+      "start_time": "12:00",
+      "end_time": "13:59",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH033",
+      "movie_id": "MOV003",
+      "screen_id": "SCR02",
+      "show_date": "2025-07-12",
+      "start_time": "15:25",
+      "end_time": "17:24",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH034",
+      "movie_id": "MOV004",
+      "screen_id": "SCR04",
+      "show_date": "2025-07-12",
+      "start_time": "10:00",
+      "end_time": "11:02",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH035",
+      "movie_id": "MOV004",
+      "screen_id": "SCR01",
+      "show_date": "2025-07-12",
+      "start_time": "12:00",
+      "end_time": "13:02",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH036",
+      "movie_id": "MOV004",
+      "screen_id": "SCR02",
+      "show_date": "2025-07-12",
+      "start_time": "21:00",
+      "end_time": "22:02",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH037",
+      "movie_id": "MOV005",
+      "screen_id": "SCR05",
+      "show_date": "2025-07-12",
+      "start_time": "09:30",
+      "end_time": "11:28",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH038",
+      "movie_id": "MOV005",
+      "screen_id": "SCR03",
+      "show_date": "2025-07-12",
+      "start_time": "14:50",
+      "end_time": "16:48",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH039",
+      "movie_id": "MOV005",
+      "screen_id": "SCR04",
+      "show_date": "2025-07-12",
+      "start_time": "17:10",
+      "end_time": "19:08",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH040",
+      "movie_id": "MOV006",
+      "screen_id": "SCR04",
+      "show_date": "2025-07-12",
+      "start_time": "11:30",
+      "end_time": "13:34",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH041",
+      "movie_id": "MOV006",
+      "screen_id": "SCR01",
+      "show_date": "2025-07-12",
+      "start_time": "16:40",
+      "end_time": "18:44",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH042",
+      "movie_id": "MOV006",
+      "screen_id": "SCR03",
+      "show_date": "2025-07-12",
+      "start_time": "20:45",
+      "end_time": "22:49",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH043",
+      "movie_id": "MOV007",
+      "screen_id": "SCR02",
+      "show_date": "2025-07-12",
+      "start_time": "12:00",
+      "end_time": "14:55",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH044",
+      "movie_id": "MOV007",
+      "screen_id": "SCR03",
+      "show_date": "2025-07-12",
+      "start_time": "17:20",
+      "end_time": "20:15",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH045",
+      "movie_id": "MOV007",
+      "screen_id": "SCR05",
+      "show_date": "2025-07-12",
+      "start_time": "20:30",
+      "end_time": "23:25",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH046",
+      "movie_id": "MOV008",
+      "screen_id": "SCR03",
+      "show_date": "2025-07-12",
+      "start_time": "12:10",
+      "end_time": "14:16",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH047",
+      "movie_id": "MOV008",
+      "screen_id": "SCR05",
+      "show_date": "2025-07-12",
+      "start_time": "14:30",
+      "end_time": "16:36",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    },
+    {
+      "showtime_id": "SCH048",
+      "movie_id": "MOV008",
+      "screen_id": "SCR01",
+      "show_date": "2025-07-12",
+      "start_time": "19:20",
+      "end_time": "21:26",
+      "format_type": "2D",
+      "sales_status": "on_sale"
+    }
+  ]
+}

@@ -1,0 +1,2453 @@
+{
+  "show_date": "2025-07-13",
+  "showtime_seat_inventories": [
+    {
+      "showtime_id": "SCH049",
+      "screen_id": "SCR01",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR01-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH050",
+      "screen_id": "SCR04",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR04-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH051",
+      "screen_id": "SCR02",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR02-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH052",
+      "screen_id": "SCR02",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR02-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH053",
+      "screen_id": "SCR01",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR01-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH054",
+      "screen_id": "SCR04",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR04-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH055",
+      "screen_id": "SCR03",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR03-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH056",
+      "screen_id": "SCR05",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR05-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH057",
+      "screen_id": "SCR02",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR02-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH058",
+      "screen_id": "SCR04",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR04-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH059",
+      "screen_id": "SCR01",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR01-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH060",
+      "screen_id": "SCR02",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR02-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH061",
+      "screen_id": "SCR05",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR05-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH062",
+      "screen_id": "SCR03",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR03-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH063",
+      "screen_id": "SCR04",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR04-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH064",
+      "screen_id": "SCR04",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR04-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR04-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH065",
+      "screen_id": "SCR01",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR01-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH066",
+      "screen_id": "SCR03",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR03-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH067",
+      "screen_id": "SCR02",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR02-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR02-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH068",
+      "screen_id": "SCR03",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR03-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH069",
+      "screen_id": "SCR05",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR05-A-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH070",
+      "screen_id": "SCR03",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR03-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR03-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH071",
+      "screen_id": "SCR05",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR05-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-A-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-B-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-C-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR05-D-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    },
+    {
+      "showtime_id": "SCH072",
+      "screen_id": "SCR01",
+      "seat_inventories": [
+        {
+          "seat_id": "SCR01-A-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-A-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-1",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-2",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-3",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-B-4",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-C-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-1",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-2",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-3",
+          "inventory_status": "available",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        },
+        {
+          "seat_id": "SCR01-D-4",
+          "inventory_status": "occupied",
+          "reserved_by_reservation_id": null,
+          "hold_expire_at": null
+        }
+      ]
+    }
+  ]
+}
